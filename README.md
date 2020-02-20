@@ -1,7 +1,7 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 # LagrangeEulerBaxter
-Codes of .....
+Uses symbolic method with Baxter kinematic and dynamic information to generate symbolic matrices representing closed form dynamics of the Baxter manuipulator.
 
 ## **Development of a dynamics model for the Baxter robot** ##
   
@@ -29,6 +29,12 @@ Codes of .....
   
   10.1109/ICMA.2016.7558740 [Learn more](https://ieeexplore.ieee.org/document/7558740)
   
+
+## **Dependency**
+
+Peter Corke's robotics toolbox for MATLAB&reg;, at least version 9.10
+
+Be careful about its license when using this toolbox. [Learn more](http://petercorke.com/wordpress/toolboxes/robotics-toolbox)
 
 ## **License**
 The entire codebase is under [MIT license](LICENSE)
