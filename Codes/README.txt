@@ -1,0 +1,1 @@
+1. Run LagrangeEulerBaxterV4.m to generate symbolic dynamics of Baxter robot. 
